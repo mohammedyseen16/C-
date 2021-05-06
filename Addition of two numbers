@@ -11,8 +11,6 @@ namespace yaseen
             int y= Convert.ToInt32(Console.ReadLine()); 
             sum = x + y;
             Console.WriteLine(sum);
-
-
         }
     }
 }
